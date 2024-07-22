@@ -24,7 +24,7 @@
 		"@types/jsdom": "^21.1.0",
 		"@types/node": "^18.14.0",
 		"@vercel/node": "^3.0.0",
-		"eslint": "^8.34.0",
+		"eslint": "^9.0.0",
 		"prettier": "^3.0.0",
 		"typescript": "^5.0.0",
 		"vercel": "^28.16.5"
