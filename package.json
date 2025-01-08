@@ -22,7 +22,7 @@
 		"@shopify/prettier-config": "^1.1.2",
 		"@shopify/typescript-configs": "^5.1.0",
 		"@types/jsdom": "^21.1.0",
-		"@types/node": "^18.14.0",
+		"@types/node": "^22.0.0",
 		"@vercel/node": "^3.0.0",
 		"eslint": "^8.34.0",
 		"prettier": "^3.0.0",
