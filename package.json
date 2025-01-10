@@ -15,7 +15,7 @@
 	"author": "nonsugarless",
 	"dependencies": {
 		"@vercel/fetch": "^7.0.0",
-		"jsdom": "^21.1.0"
+		"jsdom": "^26.0.0"
 	},
 	"devDependencies": {
 		"@shopify/eslint-plugin": "^44.0.0",
